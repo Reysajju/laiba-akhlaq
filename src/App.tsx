@@ -32,7 +32,7 @@ function App() {
                   initial={{ scale: 0 }}
                   animate={{ scale: 1 }}
                   transition={{ duration: 0.6, delay: 0.4 }}
-                  src="https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=400&h=400&fit=crop"
+                  src="https://images.unsplash.com/photo-1542380841-5eef57349ca1?w=400&h=400&fit=crop"
                   alt="Laiba Akhlaq"
                   className="w-32 h-32 rounded-full border-4 border-white shadow-lg object-cover"
                 />
